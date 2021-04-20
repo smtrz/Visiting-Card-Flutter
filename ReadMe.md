@@ -5,7 +5,7 @@ My First flutter project - Simple visiting card design.
 
 # Screenshot
 
-<img src="https://github.com/smtrz/Visiting-Card-Flutter/blob/master/screen1.png" alt="drawing" width="350"/>  |  <img src="https://github.com/smtrz/charity-donation-app/blob/master/screen_2.png" alt="drawing" width="350"/>
+<img src="https://github.com/smtrz/Visiting-Card-Flutter/blob/master/screen1.png" alt="drawing" width="350"/>
 
 
 ### Installation
